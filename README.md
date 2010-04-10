@@ -6,11 +6,11 @@ Just a small chunk of code taken from a blog post at http://jameskilton.com/2009
 How?
 ====
 
-0. `require` this file somewhere in your app.
+0. `require` internal_irb.rb somewhere in your app.
 1. `IRB.start_session(binding)` in your code will drop into irb immediately.
 
 
 Huh?
 ====
 
-It works on my machine. ¯\(°_o)/¯
+It works on my machine. ¯\\(°_o)/¯
